@@ -1,0 +1,16 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+}
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: blue;
+}
+.box3{
+    background-color: pink;
+}
+.wrapper>div{
+    flex:1;
+}

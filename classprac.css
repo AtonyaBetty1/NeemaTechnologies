@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: aqua;
+    height: 100px;
+}
+h1{
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 100px;
+    text-align: center;
+}
+article{
+    flex: 200px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(245, 12, 12);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+article:nth-of-type(3){
+flex:2
+}
+section{
+    display: flex;
+    display: inline-flex;
+
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="classprac.css">
+</head>
+<body>
+ <header>
+    <h1>Sample page</h1>
+ </header>
+
+ <section>
+    <article>
+        <h1>One</h1>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste quod provident doloribus repellendus numquam veritatis omnis minima vero assumenda magni repellat, cum beatae obcaecati quis saepe, voluptate esse blanditiis minus.</p>
+    </article>
+
+    <article>
+        <h1>Two</h1>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam sit ratione repudiandae itaque sapiente. Earum at, dolor vel rerum aperiam alias libero vitae porro ducimus harum neque. Esse, deleniti? Voluptatem!</p>
+    </article>
+
+    <article>
+        <h1>three</h1>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum doloribus ipsum odit omnis perspiciatis? Illo recusandae velit dolores cumque ipsa, eligendi nobis quisquam praesentium optio, in vero perspiciatis rem vitae.</p>
+    </article>
+ </section>
+
+ <footer>
+
+ </footer>
+</body>
+</html>
